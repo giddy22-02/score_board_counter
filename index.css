@@ -1,0 +1,65 @@
+body {
+    margin: 0px;
+    font-family:Cursed Timer ULiL;
+
+}
+.header{
+    background-color:#1B244A;
+    width:80%;
+    margin:auto;
+    text-transform:uppercase 
+}
+h2{
+    text-align:center;
+    color:#F94F6D;
+    font-size:40px 
+    
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color:#1B244A;
+    margin:auto;
+    width:80%;
+   
+}
+
+h3{
+    color:#ffffff;
+    text-align:center;
+    font-size:40px;
+}
+button{
+    color:#9AABD8;
+    font-family:Cursed Timer ULiL;
+    padding:10px;
+    margin:10px;
+    border:1px solid #9AABD8;
+    background-color:#1B244A
+    
+}
+#score-home, #score-guest{
+    font-family:courier new;
+    color:#F94F6D;
+    margin:auto;
+    text-align: center;
+    background:#080001;
+    width:85px;
+    height:60px;
+    padding:10px;
+    font-size:60px; 
+}
+#newMatch{
+    background-color:#F94F6D;
+    color:#ffffff;
+    font-size:30px;
+    border:none; 
+}
+h4{
+    color:#F94F6D
+}
+p{
+    color:#ffffff;
+}
